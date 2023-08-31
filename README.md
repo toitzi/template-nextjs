@@ -1,2 +1,1 @@
-# nextjs
-NextJS Test Repository
+## NextJS Template
